@@ -1,6 +1,7 @@
 require('dotenv').config()
 
 module.exports = {
+  pathPrefix: `/portfolio`,
   siteMetadata: {
     title: `Creative Portfolio`,
   },
